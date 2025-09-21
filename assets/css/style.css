@@ -202,7 +202,7 @@ header.active {
 }
 
 #bannerWrapper h1 {
-    font-size: 4rem;
+    font-size:3.5rem;
     display: flex;
     flex-direction: column;
     font-weight: 900;
@@ -521,17 +521,11 @@ header.active {
     border-radius: 50%;
     gap: 10px;
     transition: 0.3s all ease-in-out;
+    background: #fff;
 }
 #targetLinks a:hover {
     transform: translateY(-5px);
     border-radius: 12px;
-}
-#telegramLink {
-    background: #008cff;
-}
-
-#mailLink {
-    background: #F44336;
 }
 
 #targetLinks a svg path {

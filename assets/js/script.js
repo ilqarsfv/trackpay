@@ -17,3 +17,5 @@ document.addEventListener("scroll", function () {
     }
 
 });
+
+AOS.init();
